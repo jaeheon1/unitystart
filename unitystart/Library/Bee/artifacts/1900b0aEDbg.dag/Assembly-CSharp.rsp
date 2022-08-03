@@ -386,6 +386,7 @@
 "Assets/Cinemachine/Samples/Cinemachine/2.8.6/Cinemachine Example Scenes/Shared/Scripts/ThirdPersonFollowDistanceModifier.cs"
 "Assets/Joint/Script/Reference.cs"
 "Assets/Light/Script/LightManager.cs"
+"Assets/Light/Script/Patrol.cs"
 "Assets/Mouse Drag/base class/Te.cs"
 "Assets/Mouse Drag/Script/Capture.cs"
 "Assets/Mouse Drag/Script/Special.cs"
