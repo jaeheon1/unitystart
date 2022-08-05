@@ -391,6 +391,10 @@
 "Assets/Mouse Drag/Script/Capture.cs"
 "Assets/Mouse Drag/Script/Special.cs"
 "Assets/Mouse Drag/Script/Zoom.cs"
+"Assets/Raycast/Script/Consumeable.cs"
+"Assets/Raycast/Script/DataManager.cs"
+"Assets/Raycast/Script/Item.cs"
+"Assets/Raycast/Script/Picking.cs"
 -langversion:9.0
 
 /deterministic
