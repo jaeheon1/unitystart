@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Free Stylized Skybox/Scene.unity
+- path: Assets/animation Retargeting/Scenes/Retargeting.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
